@@ -5,10 +5,10 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
-subtitle: ""
-hero_media: welcome.jpg
+weight: 1  # Order that this section will appear.
+title: "Tesserwell, LLC"
+subtitle: "customized causal inference software and consulting"
+hero_media: graf1.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,6 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+## Human-centric data design to help your team illuminate causal pathways 
+
+Tesserwell develops software and data systems specifically designed to translate the expertise of practitioners across disciplines into cutting-edge statistical models. 

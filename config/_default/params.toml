@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "Forest"
+theme = "Ocean"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -96,7 +96,7 @@ phone = "Google Voice: +1 806 3419535"
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
- directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
