@@ -21,4 +21,5 @@ subtitle: null
 title: null
 weight: 20
 widget: blank
+active: false
 ---

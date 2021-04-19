@@ -15,4 +15,4 @@ headless: true
 subtitle: null
 title: Meet the Team
 weight: 68
-widget: people
+---
