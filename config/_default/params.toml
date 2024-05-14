@@ -84,8 +84,8 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "rachel.lynne.wilkerson@gmail.com"
-phone = "Google Voice: +1 806 3419535"
+email = "rachel@tesserwell.co"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
