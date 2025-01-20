@@ -22,7 +22,7 @@ day_night = false
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = "native"
+font = "Lato"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Tesserwell"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Risk analysis software and statistical consulting."
+description = "Risk analysis software and statistical consulting"
 
 ############################
 ## Site Features
